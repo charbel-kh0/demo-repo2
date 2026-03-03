@@ -2,4 +2,4 @@
 
 Some text
 
-salut
+salut les amis.
